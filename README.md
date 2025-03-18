@@ -16,9 +16,10 @@ Care Connect is an **AI-powered** healthcare automation system that **reduces wa
 ## ⚙️ **Tools & Technologies Used**  
 ### 🖥️ **Backend Technologies**  
 - 🐍 **Python (FastAPI)** – Backend API for handling hospital workflows.  
-- 🗄️ **PostgreSQL** – Stores patient records, bed availability, and inventory.  
-- 🚀 **Redis** – High-speed caching for real-time hospital data access.  
+- 🟢 **Node.js (Express.js/NestJS)** – Alternative backend option for high-speed API requests.  
+- 🗄️ **PostgreSQL** – Stores patient records, bed availability, and inventory.   
 - 🧠 **TensorFlow / PyTorch** – AI models for predictive analytics and diagnosis.  
+- 🔗 **REST API** – Efficient data retrieval and API communication.  
 
 ### 🎨 **Frontend Technologies**  
 - ⚛️ **React.js ** – User-friendly and dynamic web interface.  
