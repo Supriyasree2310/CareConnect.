@@ -1,7 +1,6 @@
 # 🚑 **Care Connect**  
 ### 🌍 Revolutionizing Healthcare with AI  
 
-![Care Connect](https://yourimageurl.com) 
 
 ## ✨ **Overview**  
 Care Connect is an **AI-powered** healthcare automation system that **reduces waiting times, optimizes hospital resources, and enhances patient care**. With an **intelligent multilingual bot**, **smart inventory tracking**, and **AI-driven doctor-patient matching**, Care Connect transforms hospital management into a **seamless and efficient** experience.  
